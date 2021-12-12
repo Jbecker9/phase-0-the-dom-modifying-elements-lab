@@ -4,6 +4,7 @@ main.remove();
 
 let newHeader = document.createElement('h1')
 document.body.append(newHeader);
-document.body.newHeader.id = 'victory'
+$0.id = 'victory'
+
 
 
